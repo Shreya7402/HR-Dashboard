@@ -11,4 +11,4 @@ This project showcases an interactive HR Analytics Dashboard built in Tableau, d
 5) Top earners by job
 6) Qualification vs. Salary
 
-Dashboard <a href="
+Dashboard <a href="https://github.com/Shreya7402/HR-Dashboard/blob/main/Screenshot%20(163).png">View dashboard</a>
