@@ -11,7 +11,7 @@ This project showcases an interactive HR Analytics Dashboard built in Tableau, d
 5) Top earners by job
 6) Qualification vs. Salary
 
-Dashboard <a href="https://github.com/Shreya7402/HR-Dashboard/blob/main/Screenshot%20(163).png">View dashboard</a>
+- <a href="https://github.com/Shreya7402/HR-Dashboard/blob/main/Screenshot%20(170).png">Dashboard</a>
 ## Conclusion
 The HR Analytics Dashboard offers a quick and interactive view of key workforce metrics, helping HR teams track employee distribution, salary patterns, and attrition trends.
 It supports data-driven HR decisions, workforce planning, and diversity initiatives.
