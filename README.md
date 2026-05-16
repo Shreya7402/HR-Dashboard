@@ -1,6 +1,6 @@
 # HR Dashboard Analytics
 ## Project objective
-This project showcases an interactive HR Analytics Dashboard built in Power BI, designed to help HR teams analyze workforce data and make informed decisions. The dashboard provides a comprehensive view of key employee metrics, enabling quick insights into hiring, diversity, and performance trends.
+This project showcases an interactive HR Analytics Dashboard built in Power BI, designed to help HR teams analyze workforce data and make informed decisions. The dashboard provides a comprehensive view of key employee metrics, enabling quick insights into salary trends, diversity, and performance trends.
 ## Dataset used
 - <a href="https://github.com/Shreya7402/HR-Dashboard/blob/main/hr-data-analysis.xlsx">Dataset</a>
 ## Questions(KPIs)
