@@ -10,9 +10,9 @@ This project showcases an interactive HR Analytics Dashboard built in Power BI, 
 4) Qualification vs. Salary
 
 ## Key Metrics
--Analyzed 1,400+ employee records covering 161 employees.
--Tracked salary insights: average (54.23K), max (85K), min (29K).
--Visualized gender distribution and job-wise salary trends to support HR decision-making
+- Analyzed 1,400+ employee records covering 161 employees.
+- Tracked salary insights: average (54.23K), max (85K), min (29K).
+- Visualized gender distribution and job-wise salary trends to support HR decision-making
 
 ## Dashboard
 - <a href="https://github.com/Shreya7402/HR-Dashboard/blob/main/Screenshot%20(244).png">Dashboard</a>
